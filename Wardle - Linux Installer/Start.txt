@@ -1,0 +1,3 @@
+To unpack the project: sudo bash wardle_installer.sh
+
+To start the game: websocketd --port=8080 --address=0.0.0.0 /home/seb/wardle/wardle.sh
