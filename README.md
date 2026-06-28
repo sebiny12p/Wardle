@@ -7,4 +7,4 @@ To compile the windows version use the .bat, while for the linux version use the
 
 Thank you for checking it out!
 
-PS: It's also available on itch.io: https://sebastian12p.itch.io/wardle
+PS: It's also available on itch.io: https://sebastian12p.itch.io/wardle and my website playfinder.club
